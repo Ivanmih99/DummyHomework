@@ -2,49 +2,49 @@ let year = prompt("What year were you born?");
 let result = (year - 4) % 12;
 
 if (result === 0) {
-  console.log("Rat");
+  alert("Rat");
 }
 
 if (result === 1) {
-  console.log("Ox");
+  alert("Ox");
 }
 
 if (result === 2) {
-  console.log("Tiger");
+  alert("Tiger");
 }
 
 if (result === 3) {
-  console.log("Rabbit");
+  alert("Rabbit");
 }
 
 if (result === 4) {
-  console.log("Dragon");
+  alert("Dragon");
 }
 
 if (result === 5) {
-  console.log("Snake");
+  alert("Snake");
 }
 
 if (result === 6) {
-  console.log("Horse");
+  alert("Horse");
 }
 
 if (result === 7) {
-  console.log("Goat");
+  alert("Goat");
 }
 
 if (result === 8) {
-  console.log("Monkey");
+  alert("Monkey");
 }
 
 if (result === 9) {
-  console.log("Rooster");
+  alert("Rooster");
 }
 
 if (result === 10) {
-  console.log("Dog");
+  alert("Dog");
 }
 
 if (result === 11) {
-  console.log("Pig");
+  alert("Pig");
 }
